@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Danny Stark
 - 👀 I’m interested in AI, ML and python
-- 🌱 I’m currently learning flask
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... dannystark195@gmail.com
 - 😄 Pronouns: ...
